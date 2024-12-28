@@ -1,0 +1,1 @@
+import{o as t,c as o,a as n}from"./index-CApWpu1_.js";const r={xmlns:"http://www.w3.org/2000/svg",width:"12",height:"10",fill:"none"};function s(l,e){return t(),o("svg",r,e[0]||(e[0]=[n("path",{fill:"#1C1B1F",d:"m4 9.9-4-4 1.4-1.4L4 7.1 10.6.5 12 1.9z"},null,-1)]))}const a={render:s};export{a as I};
